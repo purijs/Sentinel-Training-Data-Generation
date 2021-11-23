@@ -31,8 +31,10 @@ Superpixel based SNIC Implementation for image segmentation and boundary delinea
  
 ### VISUAL RESULTS
 - Original Image
+![enter image description here](https://github.com/purijs/Sentinel-Training-Data-Generation/blob/main/original.png)
 
 - SuperPixel Boundary
+![enter image description here](https://github.com/purijs/Sentinel-Training-Data-Generation/blob/main/sp_boundary.png)
 
 
 ### INSTALLATION
