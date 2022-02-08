@@ -2,9 +2,9 @@ import sys
 import heapq
 from math import sqrt
 from itertools import chain
-from pixxel.unsupervised.ndim.operations_collections import nd_computations
-from pixxel.unsupervised.ndim.lerp import lerp2
-from pixxel.unsupervised.metric.snic import create_augmented_snic_distance
+from training.unsupervised.ndim.operations_collections import nd_computations
+from training.unsupervised.ndim.lerp import lerp2
+from training.unsupervised.metric.snic import create_augmented_snic_distance
 
 
 class QueueElement(object):

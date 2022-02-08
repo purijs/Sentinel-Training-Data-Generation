@@ -40,7 +40,7 @@ Superpixel based SNIC Implementation for image segmentation and boundary delinea
 ### INSTALLATION
 
 ```
-pip install git+https://gitlab.com/
+pip install git+https://github.com/purijs/Sentinel-Training-Data-Generation.git
 ```
 
 ### EXTERNAL DEPENDENCIES

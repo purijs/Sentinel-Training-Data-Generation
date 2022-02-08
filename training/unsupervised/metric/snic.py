@@ -1,4 +1,4 @@
-from pixxel.unsupervised.ndim.norm_sqr import norm2_sqr, norm_nd_sqr_arr
+from training.unsupervised.ndim.norm_sqr import norm2_sqr, norm_nd_sqr_arr
 from math import sqrt
 
 
